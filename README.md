@@ -21,10 +21,8 @@ A responsive landing page designed to showcase a fictional brand or product. It 
 - Hero section  
 - Features/Services section  
 - Call to action  
-- Footer  
-
-**[Live Demo](#)** | **[Source Code](./LandingPage/)**
-
+- Footer
+  
 ---
 
 ### Task 2: Portfolio Website
@@ -34,14 +32,10 @@ A personal portfolio website to showcase individual skills, projects, and contac
 - Projects Showcase  
 - Contact Form  
 
-**[Live Demo](#)** | **[Source Code](./PortfolioWebsite/)**
-
 ---
 
 ### Task 3: Temperature Converter Website
 A simple and interactive web application that allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin.
-
-**[Live Demo](#)** | **[Source Code](./TemperatureConverter/)**
 
 ---
 
